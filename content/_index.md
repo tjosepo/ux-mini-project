@@ -96,3 +96,9 @@ We chose ‘Breakout’ as the name of our app. This name was chosen because our
 What we learned during this project is that super apps can be much more than an application marketplace. After analyzing our responses from our short survey, we learned that studying has contributed the most to screen time usage rising during the pandemic, due to online lessons and assessment. As such, the challenge of creating a “Healthy Screen Habits Super App” was to not fall into the pithole of creating a super app that limits screen habits by forcing it on users, but rather create a health application that would push people to do physical activities and healthy habits.
 
 OptiScreen Inc. tasked us to create a super app that would promote healthy habits to everyone stuck at home during the pandemic. To this end, our app promotes more of an active lifestyle, as well as healthy eating, all the while being elegant and easy to use. We are honored that OptiScreen Inc. came to us to design a super app that would help many of us still in lockdown.
+
+## References
+
+- Weisberg, J. (2016). We Are Hopelessly Hooked. The New York Review of Books.
+
+- Yates, E. (2017). Here's why Steve Jobs never let his kids use an iPad. Business Insider.
