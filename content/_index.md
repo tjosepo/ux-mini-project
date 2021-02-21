@@ -102,3 +102,7 @@ OptiScreen Inc. tasked us to create a super app that would promote healthy habit
 - Weisberg, J. (2016). We Are Hopelessly Hooked. The New York Review of Books.
 
 - Yates, E. (2017). Here's why Steve Jobs never let his kids use an iPad. Business Insider.
+
+- Infopulse. (2019). Introducing Super App: A New Approach to All-in-One Experience. Infopulse.
+
+- Cimberle, M. (2020). Increased digital screen time during COVID-19 may accelerate myopia epidemic. Healio.
